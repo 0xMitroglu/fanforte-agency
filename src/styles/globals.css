@@ -900,6 +900,7 @@ img {
 .carousel__img {
   border-radius: 10px;
 }
+
 .slide-pair {
   display: flex;
   justify-content: space-between; /* Ensure images are evenly spaced */

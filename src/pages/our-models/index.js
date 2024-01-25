@@ -6,12 +6,12 @@ import ContactDiv from "@/components/ContactDiv";
 export default function OurModels() {
   const img1 = "/images/model_ava.jpg";
   const img2 = "/images/model_sabrina.jpg";
-  const img3 = "/images/model_matilda.jpg";
+  const img3 = "/images/model_matilda.png";
   const img4 = "/images/model_thafi.jpg";
-  const img5 = "/images/model_lily.jpeg";
+  const img5 = "/images/model_lily.png";
   const img6 = "/images/model_carolina.jpg";
-  const img7 = "/images/model_jane.jpeg";
-  const img8 = "/images/model_lola.jpeg";
+  const img7 = "/images/model_jane.png";
+  const img8 = "/images/model_lola.png";
   const img9 = "/images/model_ashley.jpeg";
   return (
     <div className="our__models">

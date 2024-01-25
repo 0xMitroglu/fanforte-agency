@@ -42,14 +42,14 @@ const CarouselComponent = () => {
       <div className="slide-pair">
         <div className="slide-image">
           <img
-            src="images/model_matilda.jpg"
+            src="images/model_matilda.png"
             alt="OF model Matilda"
             className="carousel__img"
           />
         </div>
         <div className="slide-image">
           <img
-            src="images/model_thafi.png"
+            src="images/model_thafi.jpg"
             alt="OF model Thafi"
             className="carousel__img"
           />
@@ -58,15 +58,15 @@ const CarouselComponent = () => {
       <div className="slide-pair">
         <div className="slide-image">
           <img
-            src="images/model_lily.jpeg"
-            alt="OF model Matilda"
+            src="images/model_lily2.png"
+            alt="OF model Lily"
             className="carousel__img"
           />
         </div>
         <div className="slide-image">
           <img
             src="images/model_carolina.jpg"
-            alt="OF model Thafi"
+            alt="OF model Carolina"
             className="carousel__img"
           />
         </div>

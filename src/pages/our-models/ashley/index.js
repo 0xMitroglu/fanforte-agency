@@ -26,8 +26,8 @@ export default function Ashley() {
         <div className="div__ava__div__subdiv2">
           <h1 className="div__ava__div__subdiv2__h1 display_1">Ashley</h1>
           <p className="div__ava__div__subdiv2__p__1">
-            Ashley was already on Of, tik-tok and Instagram, but had no idea how
-            to generate Fans and redirect them to her OF account.
+            Ashley was already on Onlyfans, Tik-Tok and Instagram, but had no
+            idea how to generate Fans and redirect them to her OF account.
           </p>
           <p className="div__ava__div__subdiv2__p__2">
             Ashley's account was not convincing, she had no idea of trends or
