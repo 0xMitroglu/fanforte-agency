@@ -47,7 +47,7 @@ export default function Header() {
             className="header__navbar__link__img"
           />
           <Image
-            src="/images/logo-insta.png"
+            src="/images/logo-FanForte_for_insta.png"
             alt="FanForte Logo"
             width={2470}
             height={559}
