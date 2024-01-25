@@ -11,8 +11,26 @@ export default function Footer() {
           <h3>Get In Touch With Us</h3>
           <a href="https://www.instagram.com/fanforte_agency/">
             <Image
-              src="/images/instagram_logo.png"
+              src="/images/instagram.png"
               alt="Instagram Logo"
+              width={512}
+              height={512}
+              className="footer__div__instagramLogoImg"
+            />
+          </a>
+          <a href="/contact-form">
+            <Image
+              src="/images/contact-Form_icon.png"
+              alt="form image"
+              width={512}
+              height={512}
+              className="footer__div__instagramLogoImg"
+            />
+          </a>
+          <a href="mailto:agency.fanforte@gmail.com">
+            <Image
+              src="/images/mail_icon.png"
+              alt="mail contact icon"
               width={512}
               height={512}
               className="footer__div__instagramLogoImg"
