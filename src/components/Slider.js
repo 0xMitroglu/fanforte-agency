@@ -49,7 +49,7 @@ const CarouselComponent = () => {
         </div>
         <div className="slide-image">
           <img
-            src="images/model_thafi.jpg"
+            src="images/model_thafi.png"
             alt="OF model Thafi"
             className="carousel__img"
           />
