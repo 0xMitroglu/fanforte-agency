@@ -350,7 +350,7 @@ export default function Main() {
             className="main__div7__subdiv__h4"
             ref={(el) => numberElements.current.push(el)}
           >
-            25+
+            15+
           </h4>
           <p className="main__div7__subdiv__p">
             The size of our dedicated team
@@ -361,7 +361,7 @@ export default function Main() {
             className="main__div7__subdiv__h4"
             ref={(el) => numberElements.current.push(el)}
           >
-            27 K
+            7 K
           </h4>
           <p className="main__div7__subdiv__p">Number of daily new fans</p>
         </div>
@@ -370,7 +370,7 @@ export default function Main() {
             className="main__div7__subdiv__h4"
             ref={(el) => numberElements.current.push(el)}
           >
-            40+
+            10+
           </h4>
           <p className="main__div7__subdiv__p">
             Number of models under contract
@@ -381,7 +381,7 @@ export default function Main() {
             className="main__div7__subdiv__h4"
             ref={(el) => numberElements.current.push(el)}
           >
-            $ 51700
+            $ 31700
           </h4>
           <p className="main__div7__subdiv__p">Average turnover per model</p>
         </div>
@@ -390,7 +390,7 @@ export default function Main() {
             className="main__div7__subdiv__h4"
             ref={(el) => numberElements.current.push(el)}
           >
-            $ 281,000
+            $ 110,000
           </h4>
           <p className="main__div7__subdiv__p">
             Our Nr. 1 Model turnover per month
@@ -399,35 +399,37 @@ export default function Main() {
       </div>
 
       <div className="div14"></div>
-      <div className="div16"><div className="main__div div8">
-        <h1 className="main__div8__h1">Results of our models</h1>
-        <p className="main__div8__p">
-          Some of our models have allowed us to post their earnings and
-          achievements on the website so you can see what is possible when you
-          have the right agency.
-        </p>
-        <Image
-          src={imgsrc4}
-          height={700}
-          width={400}
-          className="main__div8__img"
-          alt="example of money made by one of our OF models"
-        />
-        <Image
-          src={imgsrc5}
-          height={700}
-          width={400}
-          className="main__div8__img"
-          alt="example of money made by one of our OF models"
-        />
-        <Image
-          src={imgsrc6}
-          height={700}
-          width={400}
-          className="main__div8__img"
-          alt="example of money made by one of our OF models"
-        />
-      </div></div>
+      <div className="div16">
+        <div className="main__div div8">
+          <h1 className="main__div8__h1">Results of our models</h1>
+          <p className="main__div8__p">
+            Some of our models have allowed us to post their earnings and
+            achievements on the website so you can see what is possible when you
+            have the right agency.
+          </p>
+          <Image
+            src={imgsrc4}
+            height={700}
+            width={400}
+            className="main__div8__img"
+            alt="example of money made by one of our OF models"
+          />
+          <Image
+            src={imgsrc5}
+            height={700}
+            width={400}
+            className="main__div8__img"
+            alt="example of money made by one of our OF models"
+          />
+          <Image
+            src={imgsrc6}
+            height={700}
+            width={400}
+            className="main__div8__img"
+            alt="example of money made by one of our OF models"
+          />
+        </div>
+      </div>
       <div className="div17"></div>
 
       <div className="main__div div9 width">
