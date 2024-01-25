@@ -20,7 +20,7 @@ export default function Footer() {
           </a>
           <a href="/contact-form">
             <Image
-              src="/images/contact-Form_icon.png"
+              src="/images/contact-form_icon.png"
               alt="form image"
               width={512}
               height={512}
